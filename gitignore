@@ -1,0 +1,26 @@
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Compilados Java
+*.class
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos ejecutables
+*.jar
+
+# Exportaciones
+*.csv
+*.json
+
+# Configuración personal
+*.env
